@@ -1,0 +1,12 @@
+
+7FFF07E19A98
+dll基址
+7FFF03D30000
+
+头像00007FFF07E19D00
+
+WeChatWin.dll + 40E9A98 #昵称
+WeChatWin.dll + 40E99B8 #账号
+WeChatWin.dll + 40E9D00 #头像
+WeChatWin.dll + 40E9930 #wxid
+WeChatWin.dll + 40E99F8 #签名
